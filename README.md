@@ -48,6 +48,6 @@ Always eager to learn new technologies, improve performance, and craft better di
 
 ### 📫 Connect With Me
 - 📍 Chennai, India  
-- 📧 Email: yourmail@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/yourid  
-- 🌐 Portfolio: https://yourportfolio.com
+- 📧 Email: aacharanjith55@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/ranjith55/
+- 🌐 Portfolio: https://ranjithwebdeveloper.netlify.app/
