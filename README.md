@@ -7,11 +7,11 @@ Full Stack Web Developer | WordPress CMS Developer | Digital Creator | Shaping W
 ---
 
 ### 👨‍💻 About Me
-I'm a passionate **Full Stack Web Developer & WordPress CMS Developer** with a strong interest in modern web design and development.  
+I'm a passionate **Full Stack Web Developer & WordPress CMS Developer** focused on building modern, responsive, and scalable web applications.
 
-I enjoy building responsive, user-friendly web applications, dynamic websites, and CMS-based solutions using clean and scalable code.
+I work with both **custom development** and **CMS-based solutions**, delivering clean UI and reliable functionality.
 
-Always eager to learn new technologies and improve my skills to craft better digital experiences.
+Always learning, improving, and crafting better digital experiences.
 
 ---
 
@@ -35,15 +35,21 @@ Always eager to learn new technologies and improve my skills to craft better dig
 ---
 
 ### 📊 Most Used Languages
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjiths&layout=compact&theme=tokyonight&cache_seconds=1800" />
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjithaacha93&layout=compact&theme=tokyonight&cache_seconds=86400"
+    alt="Most Used Languages"
+  />
 </p>
 
 ---
 
 ### 📈 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ranjiths&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ranjithaacha93&show_icons=true&theme=tokyonight&cache_seconds=86400"
+    alt="GitHub Stats"
+  />
 </p>
 
 ---
