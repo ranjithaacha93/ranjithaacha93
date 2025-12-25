@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ranjith</h1>
+
 <h3 align="center">
 Full Stack Web Developer | WordPress CMS Developer | Digital Creator | Shaping Web Experiences
 </h3>
@@ -6,10 +7,11 @@ Full Stack Web Developer | WordPress CMS Developer | Digital Creator | Shaping W
 ---
 
 ### 👨‍💻 About Me
-I'm a passionate **Full Stack Web Developer & WordPress CMS Developer** with a strong focus on modern web design and development.  
-I enjoy building responsive, user-friendly web applications and scalable websites using both custom code and CMS platforms.
+I'm a passionate **Full Stack Web Developer & WordPress CMS Developer** with a strong interest in modern web design and development.  
 
-Always eager to learn new technologies, improve performance, and craft better digital experiences.
+I enjoy building responsive, user-friendly web applications, dynamic websites, and CMS-based solutions using clean and scalable code.
+
+Always eager to learn new technologies and improve my skills to craft better digital experiences.
 
 ---
 
@@ -34,20 +36,20 @@ Always eager to learn new technologies, improve performance, and craft better di
 
 ### 📊 Most Used Languages
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjiths&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
 
 ### 📈 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ranjiths&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
 
 ### 📫 Connect With Me
 - 📍 Chennai, India  
-- 📧 Email: aacharanjith55@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/ranjith55/
-- 🌐 Portfolio: https://ranjithwebdeveloper.netlify.app/
+- 📧 Email: yourmail@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/yourid  
+- 🌐 Portfolio: https://yourportfolio.com
