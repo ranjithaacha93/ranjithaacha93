@@ -1,61 +1,88 @@
-<h1 align="center">Hi 👋, I'm Ranjith</h1>
+<div align="center">
 
-<h3 align="center">
-Full Stack Web Developer | WordPress CMS Developer | Digital Creator | Shaping Web Experiences
-</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:8B5CF6,100:6D28D9&height=220&section=header&text=Hi%20there,%20I'm%20Ranjith&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20WordPress%20CMS%20Developer&descAlignY=55&descSize=18&descColor=F3E8FF" />
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=1%2B+Year+Experience+in+Web+Development;Full+Stack+Developer+%7C+MERN+Stack;WordPress+%26+CMS+Specialist;AI+Automation+%2B+Chatbot+Developer" alt="Typing SVG" />
+
+<br>
+
+<img src="https://img.shields.io/badge/💼_Experience-1%2B_Year-FFFFFF?style=for-the-badge&labelColor=6D28D9&logoColor=6D28D9" />
+<img src="https://img.shields.io/badge/📍_Location-Chennai,_India-FFFFFF?style=for-the-badge&labelColor=6D28D9&logoColor=6D28D9" />
+<img src="https://img.shields.io/badge/🚀_Projects-20%2B_Completed-FFFFFF?style=for-the-badge&labelColor=6D28D9&logoColor=6D28D9" />
+
+</div>
+
+<br>
+
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 ### 👨‍💻 About Me
-I'm a passionate **Full Stack Web Developer & WordPress CMS Developer** focused on building modern, responsive, and scalable web applications.
 
-I work with both **custom development** and **CMS-based solutions**, delivering clean UI and reliable functionality.
+- 💼 **1+ Year of hands-on experience** as a Full Stack Web Developer
+- 🔭 Building scalable, responsive, and **client-ready web applications**
+- 🌐 Skilled in **WordPress CMS Development** — clean, fast, and easy-to-manage sites
+- 🤖 Exploring **AI Automation & Chatbot Development** for smarter web solutions
+- ⚙️ Passionate about turning ideas into fast, functional, good-looking products
+- 📈 Also work on **SEO** — so great sites actually get found
+- 🌱 Always learning, always shipping
 
-Always learning, improving, and crafting better digital experiences.
-
----
-
-### 🎯 Skills & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress"/>
-  <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify"/>
-</p>
+<br clear="both">
 
 ---
 
-### 📊 Most Used Languages
+### 🚀 Tech Stack
+
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjithaacha93&layout=compact&theme=tokyonight&cache_seconds=86400"
-    alt="Most Used Languages"
-  />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,express,mongodb,mysql,php,wordpress,git,github,figma,vscode&theme=light" />
 </p>
+
+<div align="center">
+
+| Category | Tools |
+|---|---|
+| 🎨 **Frontend** | ![](https://img.shields.io/badge/-HTML5-6D28D9?style=flat-square&logo=html5&logoColor=white) ![](https://img.shields.io/badge/-CSS3-6D28D9?style=flat-square&logo=css3&logoColor=white) ![](https://img.shields.io/badge/-Bootstrap-6D28D9?style=flat-square&logo=bootstrap&logoColor=white) ![](https://img.shields.io/badge/-JavaScript-6D28D9?style=flat-square&logo=javascript&logoColor=white) ![](https://img.shields.io/badge/-React.js-6D28D9?style=flat-square&logo=react&logoColor=white) |
+| ⚙️ **Backend** | ![](https://img.shields.io/badge/-Node.js-8B5CF6?style=flat-square&logo=node.js&logoColor=white) ![](https://img.shields.io/badge/-Express.js-8B5CF6?style=flat-square&logo=express&logoColor=white) ![](https://img.shields.io/badge/-PHP-8B5CF6?style=flat-square&logo=php&logoColor=white) |
+| 🗄️ **Database** | ![](https://img.shields.io/badge/-MongoDB-A78BFA?style=flat-square&logo=mongodb&logoColor=white) ![](https://img.shields.io/badge/-MySQL-A78BFA?style=flat-square&logo=mysql&logoColor=white) |
+| 🧩 **CMS** | ![](https://img.shields.io/badge/-WordPress-6D28D9?style=flat-square&logo=wordpress&logoColor=white) |
+| 🤖 **AI / Automation** | ![](https://img.shields.io/badge/-AI_Chatbots-8B5CF6?style=flat-square&logo=openai&logoColor=white) ![](https://img.shields.io/badge/-Automation-8B5CF6?style=flat-square&logo=zapier&logoColor=white) |
+| 📈 **Growth** | ![](https://img.shields.io/badge/-SEO-A78BFA?style=flat-square&logo=googlesearchconsole&logoColor=white) |
+| 🛠️ **Tools** | ![](https://img.shields.io/badge/-Git-C4B5FD?style=flat-square&logo=git&logoColor=1E1B2E) ![](https://img.shields.io/badge/-GitHub-C4B5FD?style=flat-square&logo=github&logoColor=1E1B2E) ![](https://img.shields.io/badge/-VS_Code-C4B5FD?style=flat-square&logo=visualstudiocode&logoColor=1E1B2E) |
+
+</div>
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ranjithaacha93&show_icons=true&theme=tokyonight&cache_seconds=86400"
-    alt="GitHub Stats"
-  />
-</p>
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=ranjithaacha93&show_icons=true&hide_border=true&count_private=true&title_color=6D28D9&text_color=4B5563&icon_color=8B5CF6&bg_color=FFFFFF" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ranjithaacha93&layout=compact&hide_border=true&title_color=6D28D9&text_color=4B5563&bg_color=FFFFFF" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ranjithaacha93&hide_border=true&background=FFFFFF&ring=8B5CF6&fire=6D28D9&currStreakLabel=6D28D9&sideLabels=4B5563&currStreakNum=6D28D9&sideNums=1E1B2E&dates=4B5563" />
+</div>
 
 ---
 
 ### 📫 Connect With Me
-- 📍 Chennai, India  
-- 📧 Email: aacharanjith55@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/ranjith55/
-- 🌐 Portfolio: https://ranjithwebdeveloper.netlify.app/
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ranjith55/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=6D28D9&labelColor=6D28D9" />
+  </a>
+  <a href="mailto:aacharanjith55@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=6D28D9&labelColor=6D28D9" />
+  </a>
+  <a href="https://ranjithwebdeveloper.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=netlify&logoColor=6D28D9&labelColor=6D28D9" />
+  </a>
+</p>
+
+<p align="center">📍 Chennai, Tamil Nadu, India</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ranjithaacha93&color=6D28D9&style=for-the-badge&label=PROFILE+VIEWS" />
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:8B5CF6,100:6D28D9&height=100&section=footer" />
